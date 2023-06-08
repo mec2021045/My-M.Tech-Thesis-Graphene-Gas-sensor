@@ -23,6 +23,6 @@ Our approach to finding sensing behavior by comparing properties is to try first
 In terms of formation energy, Pt-doped Graphene has been identified as the most stable sensor. However, when considering sensitivity and charge transfer, defective Graphene exhibits superior performance. The presence of defects in Graphene enhances its sensitivity toward external stimuli, making it a promising candidate for sensing applications. The defects introduce additional charge transfer pathways, leading to enhanced detection capabilities. Therefore, while Pt-doped Graphene excels in terms of stability, defective Graphene surpasses it in terms of sensitivity and charge transfer, making it a highly desirable material for achieving enhanced sensing performance. These findings contribute to the understanding and development of advanced sensing materials and devices for a range of applications. 
 So finally, Gold doped Graphene shows better sensing with better sensing compared to pristine and other doped Graphene. Defected Graphene shows the best version of a sensor in our implementation. 
 ## Result
-
+"I will attach and add each and every results and files after publishing as Research journel".It is now under process.
 ## Author
 ### Raju Kumar Yadav(IIIT Allahabad)
