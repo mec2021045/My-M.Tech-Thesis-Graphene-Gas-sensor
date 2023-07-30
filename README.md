@@ -1,10 +1,10 @@
 # M.Tech-Thesis-Graphene-Gas-sensor
-# Detection of Nitrogen oxide Gas using Pristine ,Defected &amp; (Copper ,Gold and Platinum) Doped Graphene sheet.Project is going to be published as Research paper journel
+# Detection of Nitrogen oxide Gas using Pristine, Defected &amp; (Copper, Gold, and Platinum) Doped Graphene sheet. The project is going to be published as a Research paper journal
 ## Abstract 
-The goal of the work is to make the best version of Graphene as a Gas sensor to detect gas like Nitrogen Oxide (NO) using different types of transition metals (Cu/Gold/Platinum) doped into a Graphene sheet and creating a Single Vacancy(SV) in middle of Graphene sheet. Doped and defects are considered as a deformity in material that deteriorates its performance. However, at Nano-scale level defects and doped lead to generating a useful and novel material for device application. In the present report, Pristine, Defected & doped Graphene sheets are being explored as a sensing material for toxic NO Gas. Designed Graphene devices with different cases for electrical I-V characteristics.
-The sensing mechanism is studied with the help of its Electronic nature, Charge transfer, Adsorption Energy, Electrical Properties (I-V), sensitivity.
-## Implimention:
-The Present work has been performed using density functional theory and non-equilibrium Green’s function (NEGF)  framework implemented through a quantum ATK -VNL .
+The goal of the work is to make the best version of Graphene as a Gas sensor to detect gas like Nitrogen Oxide (NO) using different types of transition metals (Cu/Gold/Platinum) doped into a Graphene sheet and creating a Single Vacancy(SV) in middle of Graphene sheet. Doped and defects are considered as a deformity in material that deteriorates its performance, however, at the Nano-scale level defects and doped lead to generating a useful and novel material for device application. In the present report, Pristine, Defected & doped Graphene sheets are being explored as a sensing material for toxic NO Gas. We designed Graphene devices with different cases for electrical I-V characteristics.
+The sensing mechanism is studied with the help of its Electronic nature, Charge transfer, Adsorption Energy, Electrical Properties (I-V), and sensitivity.
+## Implementation:
+The Present work has been performed using density functional theory and non-equilibrium Green’s function (NEGF)  framework implemented through a quantum ATK -VNL.
 To assess the sensing behavior of Graphene sheets towards NO Gas, its geometric structures, electronic and transport properties in pristine, Defected & doped Graphene sheets are being explored or studied before and after adsorption of NO gas can be used as a sensing material for toxic NO Gas.
 The sensing mechanism is studied with the help of its Electronic nature, charge transfer, Density of State, Adsorption Energy, Electrical properties (I-V), Recovery time, and Sensitivity.
 The electronic nature helps me to know conducting nature of Graphene sheets with different cases.
@@ -24,5 +24,25 @@ In terms of formation energy, Pt-doped Graphene has been identified as the most 
 So finally, Gold doped Graphene shows better sensing with better sensing compared to pristine and other doped Graphene. Defected Graphene shows the best version of a sensor in our implementation. 
 ## Result
 "I will attach and add each and every results and files after publishing as Research journel".It is now under process.
+
+To evaluate the sensing behavior towards NO Gas, its geometric structures, and electronic and transport properties in pristine and doped (Cu/Au/Pt) states are studied before and after NO Gas adsorption.
+The analysis is discussed in two sections, the first one is computational prediction and the second one is electrical I-V Characteristics.[(14,20)] Computational prediction indicates the best quality of sensing behavior of Graphene and Electrical I-V characteristic indicates the sensing behavior of Graphene towards harmful gases. The sensing mechanism is studied with the help of its Electronic nature, charge transfer, Density Of State, Formation Energy, Adsorption energy, Electrical properties (I-V), and Sensitivity.
+### 5.1Pristine Graphene with NO Gas
+
+Fig2: Top and side view of Graphene with NO
+![image](https://github.com/mec2021045/My-M.Tech-Thesis-Graphene-Gas-sensor/assets/115482179/6de8f7d0-4a6b-47b2-b4e6-985bec54a5bf)
+
+
+The electronic nature of Graphene sheets [21] was investigated to determine their conducting properties under various conditions. Initially, the pristine Graphene was found to have a band gap of 0.058 at the quantum ATK tool; however, in reality, its band gap is nearly zero, indicating a quasi-semiconducting behavior. Subsequently, the Graphene sheets were exposed to NO Gas, resulting in metallic. The adsorption of NO Gas introduced localized states that altered the band structure of Graphene. The Adsorption Energy and sensitivity of Pristine Graphene is 0.77eV and 23 % which is very low for adsorbing NO Gas.
+
+## 5.2 Defective Graphene with NO Gas
+![image](https://github.com/mec2021045/My-M.Tech-Thesis-Graphene-Gas-sensor/assets/115482179/9e0b318c-2f74-4d2c-bfe4-1f57788ae23f)
+
+The Single Vacancy Carbon has been optimized to obtain the relaxed geometry with a C=C bond. In the given fig, the optimized defective Graphene sheet with top and side view with optimized NO gas. The vacancy defect shows a high 8.316 eV (Table 2) adsorption Energy with 51% sensitivity toward NO Gas, but its formation energy of 0.87 eV (in Table 1) shows its instability.
+Defective graphene has emerged as a highly promising material for gas-sensing applications. Its unique properties make it an excellent candidate for detecting and quantifying various gases with high sensitivity and selectivity.
+The introduction of defects in the graphene lattice significantly alters its electronic and chemical properties, rendering it sensitive to gas molecules. Defects create localized states or impurity levels that can interact with the target gases, leading to measurable changes in the electrical conductivity or optical properties of the graphene.
+Gas sensors based on defective graphene can be fabricated using different techniques. Methods such as ion irradiation, chemical functionalization, or thermal treatment can induce structural or chemical defects, enhancing the gas-sensing capabilities of graphene. By carefully controlling the type and density of defects, the sensor's response to specific gases can be fine-tuned, enabling selective gas detection.
+In terms of gas selectivity, defective graphene sensors can be tailored to detect specific gases of interest
+Overall, defective graphene-based gas sensors hold great promise for gas sensing applications. With their high sensitivity, selectivity, and potential for miniaturization, they offer exciting prospects for a wide range of fields including environmental monitoring, industrial safety, and healthcare. Continued research and development in this area will likely lead to further advancements and practical applications of defective graphene gas sensors
 ## Author
 ### Raju Kumar Yadav(IIIT Allahabad)
